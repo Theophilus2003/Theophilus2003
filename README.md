@@ -1,4 +1,4 @@
-# Hi, I'm Theo 👋
+# Hi, I'm web3Theo
 
 Web3 developer building on **Solana** with **Rust** and **TypeScript**, and an open-source contributor focused on performance.
 
